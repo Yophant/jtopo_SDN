@@ -1,0 +1,11 @@
+{
+  "name": "jtopo",
+  "version": "1.3.8",
+  "main": "bin/jtopo-1.3.8_trial-esm-min.js",
+  "_requiredBy": [
+    "/"
+  ],
+  "scripts": {
+  },
+  "homepage": "https://www.jtopo.com"
+}
